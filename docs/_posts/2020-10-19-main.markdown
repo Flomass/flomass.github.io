@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Bonjour!"
+date:   2020-10-18 19:04:17 +0200
+---
+
+I am a bioinformatician and biostatistician currently Postdoc in the [Evolutionary and Cancer Genomics lab][Schwarz] at the [Max Delbrück Center for Molecular Medicin][mdc] in Berlin. <br/> 
+
+My work aims at understanding the cause and consequences of genomic changes and their link to human health. 
+
+I did my PhD (2012-2015) at the [MaIAGE][MaIAGE] unit in Paris' suburb under the cosupervision of Sophie Schbath and Peter Arndt. The goal of my work was to study the statistical properties of eukaryotic genomes, with a special focus on various mechanism of gene duplication. My manuscript is avaiable [here][PhD].
+
+After that, I moved to my first postdoc at the [LBBE][LBBE] in Lyon where I studied the evolution of replication origins.
+
+
+[MDC]: https://www.mdc-berlin.de/
+[Schwarz]: https://www.mdc-berlin.de/schwarz
+[PhD]: https://tel.archives-ouvertes.fr/tel-01289410/
+[LBBE]: http://lbbe.univ-lyon1.fr/?lang=en
+[MaIAGE]: http://maiage.jouy.inra.fr/?q=en
+
