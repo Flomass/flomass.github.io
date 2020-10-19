@@ -37,6 +37,8 @@ plugins:
   - jekyll-sitemap
   - not-pure-poole
 
+remote_theme: vszhub/not-pure-poole
+
 title: Florian Massip
 email: your-email@example.com
 #description: >- # this means to ignore newlines until "baseurl:"
