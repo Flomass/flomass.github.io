@@ -20,8 +20,8 @@ microorganisms’ biology, but also requires the development of efficient dedica
 The ability of bacteria belonging to different species to exchange genetic material via
 Horizontal Gene Transfer (HGT) is a key mechanism of microorganisms evolution and constitutes an
 important source of genetic novelty for microbial species. On short timescales it is the primary
-reason for the spread of antibiotic resistance in bacteria [1][1] and plays an important role in the
-evolution of virulence [2][2], and as such is of crucial importance for human health. HGT occurs via
+reason for the spread of antibiotic resistance in bacteria [1][Ref1] and plays an important role in the
+evolution of virulence [2][Ref2], and as such is of crucial importance for human health. HGT occurs via
 various mechanisms and has been studied in detail for specific bacterial families. However, HGT
 events occurring between distantly related organisms -- allowing for a rapid spread of antibiotic
 resistance and virulence factors -- remain poorly studied. Notably, the biological conditions that
@@ -29,7 +29,7 @@ make long distance HGT possible, and influence the rates at which species exchan
 understood. In addition, whether these transfers are direct or are mediated via intermediate carrier
 species, and the routes that genes take to spread via HGT over the tree of life are mostly unknown.
 
-We recently developed a method to identify HGT in bacteria [3][3]. The principle of our method
+We recently developed a method to identify HGT in bacteria [3][Ref3]. The principle of our method
 is that long sequences of DNA (>300bp) exactly identical between pairs of bacteria of different
 species are extremely unlikely to occur via classical vertical inheritance. Hence, such long exact
 matches must result from a recent HGT event. Using efficient algorithms detecting exact matches at
@@ -61,11 +61,8 @@ of subject specific genetic background in response to smoke injury remains poorl
 
 [MDC]: https://www.mdc-berlin.de/
 [Schwarz]: https://www.mdc-berlin.de/schwarz
-
-
-References
-[1]: https://doi.org/10.2147/IDR.S48820
-[2]: https://doi.org/10.1177/0300985813511131
-[3]: https://doi.org/10.1101/2020.06.09.139501
+[Ref1]: https://doi.org/10.2147/IDR.S48820
+[Ref2]: https://doi.org/10.1177/0300985813511131
+[Ref3]: https://doi.org/10.1101/2020.06.09.139501
 
 
