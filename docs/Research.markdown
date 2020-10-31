@@ -57,12 +57,23 @@ of subject specific genetic background in response to smoke injury remains poorl
 
 ## DNA Replication 
 
+During each cell cycle, the genome must be accurately replicated to ensure the faithful transmission of the genetic material
+ to daughter cells. In vertebrates, DNA replication starts at specific sites,
+ called replication origins. The positions of replication origins have been identified in a handful of eukaryotic genomes
+(human, mouse, chicken, drosophila and *Leishmania major*). However, the derterminants of replication origins 
+positions are still poorly understood.
+
+To study the determinants of replication Origins, I conducted an evolutionary analysis of vertebrate replication origins
+ [(massip et. al)][Oris], and I am currently analyzing the link between the accumulation of somatic mutations in cancers 
+and the position of replication origins.
+ 
 
 
 [Ref1]: https://doi.org/10.2147/IDR.S48820
 [Ref2]: https://doi.org/10.1177/0300985813511131
 [Misha]: https://doi.org/10.1101/2020.06.09.139501
 [Ref3]: https://doi.org/10.1186/gb-2007-8-9-r201
+[Oris]: https://academic.oup.com/nar/article/47/10/5114/5420529
 
 ### References:
 
