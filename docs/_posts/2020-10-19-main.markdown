@@ -16,7 +16,7 @@ During my second postdoc, I worked on cancer genomics in the [Evolutionary and C
 
 
 [CBIO]: https://cbio.mines-paristech.fr/
-[Mines]: mines-paristech.fr
+[Mines]: https://www.mines-paristech.fr
 [Research]: /Research/index.html
 
 [MDC]: https://www.mdc-berlin.de/
