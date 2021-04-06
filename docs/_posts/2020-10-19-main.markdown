@@ -4,14 +4,20 @@ title:  "Bonjour!"
 date:   2020-10-18 19:04:17 +0200
 ---
 
-I am a bioinformatician and biostatistician currently Postdoc in the [Evolutionary and Cancer Genomics lab][Schwarz] at the [Max Delbrück Center for Molecular Medicin][mdc] in Berlin. <br/> 
+I am a bioinformatician and biostatistician working at the [Centre for Computational Biology][CBIO], a research center of [Mines ParisTech][Mines] in Paris. <br/> 
 
-My work aims at understanding the cause and consequences of genomic changes and their link to human health. 
+My work aims at understanding the cause and consequences of genomic changes and their link to human health. You can find a more detailed description of my research topics [here][Research].
 
 I did my PhD (2012-2015) at the [MaIAGE][MaIAGE] unit in Paris' suburb under the cosupervision of Sophie Schbath and Peter Arndt. The goal of my work was to study the statistical properties of eukaryotic genomes, with a special focus on various mechanism of gene duplication. My manuscript is avaiable [here][PhD].
 
-After that, I moved to my first postdoc at the [LBBE][LBBE] in Lyon where I studied the evolution of replication origins.
+After that, I did my first postdoc at the [LBBE][LBBE] in Lyon where I studied the evolution of replication origins.
+During my second postdoc, I worked on cancer genomics in the [Evolutionary and Cancer Genomics lab][Schwarz] at the [Max Delbrück Center for Molecular Medicin][mdc] in Berlin. <br/> 
 
+
+
+[CBIO]: https://cbio.mines-paristech.fr/
+[Mines]: mines-paristech.fr
+[Research]: /Research/index.html
 
 [MDC]: https://www.mdc-berlin.de/
 [Schwarz]: https://www.mdc-berlin.de/schwarz
