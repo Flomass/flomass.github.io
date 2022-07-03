@@ -72,6 +72,7 @@ and the position of replication origins.
 [Misha]: https://elifesciences.org/articles/62719
 [Ref3]: https://doi.org/10.1186/gb-2007-8-9-r201
 [Oris]: https://academic.oup.com/nar/article/47/10/5114/5420529
+[Stella]: https://www.medrxiv.org/content/10.1101/2021.11.24.21266740v1
 
 ### References:
 
