@@ -48,7 +48,7 @@ characterisation of the genes involved [(3)][Ref3]. However, the lack of statist
 have prevented the discovery of individual differences among smokers. As a consequence, the role
 of subject specific genetic background in response to smoke injury remains poorly understood.
 
-We have recently developped a classifier to improve early detection of lung cancer [(de biase et al.][Stella].
+We have recently developped a classifier to improve early detection of lung cancer [(de biase et al.)][Stella].
 To do so, we collected nasal swab from 500 subjects to conduct transcriptomic analysis. We also genotyped the subjects
 in order to understand whether patients' genetic background could influence lung cancer risk.
 Our study demonstrate that
