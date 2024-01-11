@@ -53,7 +53,7 @@ twitter_username: flomassip
 github_username:  flomass
 
 ## Build settings
-theme: not-pure-poole
+#theme: not-pure-poole
 #plugins:
 #  - jekyll-feed
 # Exclude from processing.
