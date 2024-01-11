@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Research"
-date:   2020-10-17 19:04:17 +0200
+date:   2024-01-11 16:00:00 +0200
 ---
 
 # Research Themes
@@ -33,6 +33,14 @@ species are extremely unlikely to occur via classical vertical inheritance. Henc
 matches must result from a recent HGT event. Using efficient algorithms detecting exact matches at
 low computation cost thus allow to identify HGT on very large datasets.
 
+Pursuing this avenue of research, we recently demonstrated that studying
+the length distribution of exact sequence matches observed in whole genome alignments of two bacterial species
+allow  to efficiently separate sequence similarities
+ inherited from their common ancestors from those acquired via horizontal gene transfer.
+Based on this result, we propose a novel concept, the "mosaic molecular clock", and 
+developped a mathematical framework to accurately calibrate bacterial phylogeny
+ using solely genomic data. The full stody can be found [here][PNAS].
+
 
 ## Early Detection of  Lung Cancer
 
@@ -51,7 +59,10 @@ of subject specific genetic background in response to smoke injury remains poorl
 We have recently developped a classifier to improve early detection of lung cancer [(de biase et al.)][Stella].
 To do so, we collected nasal swab from 500 subjects to conduct transcriptomic analysis. We also genotyped the subjects
 in order to understand whether patients' genetic background could influence lung cancer risk.
-Our study demonstrate that
+Our study demonstrate that transcriptomic analysis of nasal swab can serve as an efficient early detection tool for lung cancer
+diagnosis. We further provide evidence from systems biology approaches, that demonstrates systematic dysregulation of immune
+ regulatory networks in smokers, and its link to increased lung cancer risk. These results are also supported by the analysis
+of germline variants thereby providing evidence for a risk-related connection of germline, environmental and transcriptional response.
 
 ## DNA Replication 
 
@@ -70,6 +81,7 @@ and the position of replication origins.
 [Ref1]: https://doi.org/10.2147/IDR.S48820
 [Ref2]: https://doi.org/10.1177/0300985813511131
 [Misha]: https://elifesciences.org/articles/62719
+[PNAS]: https://www.biorxiv.org/content/10.1101/2023.09.22.558938v1
 [Ref3]: https://doi.org/10.1186/gb-2007-8-9-r201
 [Oris]: https://academic.oup.com/nar/article/47/10/5114/5420529
 [Stella]: https://www.medrxiv.org/content/10.1101/2021.11.24.21266740v1
