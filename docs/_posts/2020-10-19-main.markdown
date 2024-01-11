@@ -4,7 +4,7 @@ title:  "Bonjour!"
 date:   2020-10-18 19:04:17 +0200
 ---
 
-I am a bioinformatician and biostatistician working at the [Centre for Computational Biology][CBIO], a research center of [Mines ParisTech][Mines] in Paris. <br/> 
+I am a researcher ("Chargé de recherche") in bioinformatics and biostatistics working at the [Centre for Computational Biology][CBIO], a research center of [Mines ParisTech][Mines] and [institut Curie][Curie] in Paris. <br/> 
 
 My work aims at understanding the cause and consequences of genomic changes and their link to human health. You can find a more detailed description of my research topics [here][Research].
 
@@ -17,6 +17,7 @@ During my second postdoc, I worked on cancer genomics in the [Evolutionary and C
 
 [CBIO]: https://cbio.mines-paristech.fr/
 [Mines]: https://www.mines-paristech.fr
+[Curie]: https://curie.fr/unite/u900
 [Research]: /Research/index.html
 
 [MDC]: https://www.mdc-berlin.de/
