@@ -35,7 +35,8 @@ plugins:
   - jekyll-seo-tag
   - jekyll-feed
   - jekyll-sitemap
-  - not-pure-poole
+  - jekyll-remote-theme
+#  - not-pure-poole
 
 remote_theme: vszhub/not-pure-poole
 
