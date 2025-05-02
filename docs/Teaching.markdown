@@ -4,7 +4,7 @@ title:  "Teaching & Supervision"
 date:   2024-01-11 16:00:00 +0200
 ---
 
-#Teaching
+# Teaching
 
 ## Mines Paris PSL
 
@@ -28,6 +28,7 @@ From 2025 onwards, I will be teaching in the new  BioMedical Engineering [(ST4He
 In 2025 I gave a lecture in the "séminaire de statistique" for M1 students at ENSAE about variable selection in high dimension [(slides in french)][ENSAE]. 
 
 
+# Supervision
 
 
 
