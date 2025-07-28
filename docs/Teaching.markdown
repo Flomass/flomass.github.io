@@ -40,6 +40,7 @@ One Postdoc:
 
 
 In the past, I've supervised several interns, (M1 and M2): Anaelle Hulbert; Johanna Lagoas; Camille Lebrun; Axel Prévot; Antoine Laforgue; Florine Gallois; Chloé Vogel. 
+I am always happy to supervise new students and postdoc. If interested, don't hesitate to contact me!
 
 [Rsante]: https://docs.google.com/presentation/d/1JylrVv3WZcWGDCNNn_M_rsRVFTMYj0thgOtkw1L96yI/edit#slide=id.p
 [PSL]: https://psl.eu/en/education/master-s-degree-biomedical-engineering
