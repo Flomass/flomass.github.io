@@ -1,9 +1,6 @@
 - title: Email
   url: mailto:florian.massip@minesparis.psl.eu
   icon: fas fa-envelope
-- title: Twitter
-  url: https://genomic.social/@flomass
-  icon: fab fa-twitter
 - title: GitHub
   url: https://github.com/flomass
   icon: fab fa-github
