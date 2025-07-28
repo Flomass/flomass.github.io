@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Teaching & Supervision"
-date:   2024-01-11 16:00:00 +0200
+date:   2025-28-07 16:00:00 +0200
 ---
 
 # Teaching
