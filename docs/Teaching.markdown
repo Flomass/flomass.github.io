@@ -30,7 +30,16 @@ In 2025 I gave a lecture in the "séminaire de statistique" for M1 students at E
 
 # Supervision
 
+I currently supervise two PhD Students:
 
+- Julie Cartier works on statistical methods to improve biomarker discoveries with transcriptomic data. (Co supervised with Chloé Azencott and Adeline Fermanian).
+- Paul Etheimer develop methods to reconstruct bacteria phylogenies and measure mutation rate distribution (co supervised with Chloé Azencott).
+
+One Postdoc:
+- Giann Karlo Aguirre-Samboní uses network method to improve the power of genome-wide association studies.
+
+
+In the past, I've supervised several interns, (M1 and M2): Anaelle Hulbert; Johanna Lagoas; Camille Lebrun; Axel Prévot; Antoine Laforgue; Florine Gallois; Chloé Vogel. 
 
 [Rsante]: https://docs.google.com/presentation/d/1JylrVv3WZcWGDCNNn_M_rsRVFTMYj0thgOtkw1L96yI/edit#slide=id.p
 [PSL]: https://psl.eu/en/education/master-s-degree-biomedical-engineering
