@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Research"
-date:   2025-28-07 16:00:00 +0200
+date:   2025-07-28 19:04:17 +0200
 ---
 
 # Research Themes
