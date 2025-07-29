@@ -4,9 +4,11 @@ title:  "Bonjour!"
 date:   2020-10-18 19:04:17 +0200
 ---
 
-I am a researcher ("Chargé de recherche") in bioinformatics and biostatistics working at the [Centre for Computational Biology][CBIO], a research center of [Mines ParisTech][Mines] and [institut Curie][Curie] in Paris. <br/> 
+I am a researcher ("Chargé de recherche") in bioinformatics and biostatistics working at the [Centre for Computational Biology][CBIO], a research center of [Mines Paris PSL][Mines] and [institut Curie][Curie] in Paris. <br/> 
 
-My work aims at understanding the cause and consequences of genomic changes and their link to human health. You can find a more detailed description of my research topics [here][Research].
+My work aims at understanding the cause and consequences of genomic changes and their link to human health. You can find a more detailed description of my research topics [here][Research]. I am also [teaching][Teaching] several class at Mines Paris and at PSL univeristy. Finally, I also dedicate some of my time to discuss and reflect on the envrionmental crises and their consequences on research and society in general. More details [here][Ecology]. 
+
+ reflect on how research should transform due to climate change and environmental changes
 
 I did my PhD (2012-2015) at the [MaIAGE][MaIAGE] unit in Paris' suburb under the cosupervision of Sophie Schbath and Peter Arndt. The goal of my work was to study the statistical properties of eukaryotic genomes, with a special focus on various mechanism of gene duplication. My manuscript is avaiable [here][PhD].
 
@@ -15,8 +17,8 @@ During my second postdoc, I worked on cancer genomics in the [Evolutionary and C
 
 
 
-[CBIO]: https://cbio.mines-paristech.fr/
-[Mines]: https://www.mines-paristech.fr
+[CBIO]: https://www.minesparis.psl.eu/cbio/
+[Mines]: https://www.minesparis.psl.eu/
 [Curie]: https://curie.fr/unite/u900
 [Research]: /Research/index.html
 [Teaching]: /Teaching/index.html
