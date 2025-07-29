@@ -8,8 +8,6 @@ I am a researcher ("Chargé de recherche") in bioinformatics and biostatistics w
 
 My work aims at understanding the cause and consequences of genomic changes and their link to human health. You can find a more detailed description of my research topics [here][Research]. I am also [teaching][Teaching] several class at Mines Paris and at PSL univeristy. Finally, I also dedicate some of my time to discuss and reflect on the envrionmental crises and their consequences on research and society in general. More details [here][Ecology]. 
 
- reflect on how research should transform due to climate change and environmental changes
-
 I did my PhD (2012-2015) at the [MaIAGE][MaIAGE] unit in Paris' suburb under the cosupervision of Sophie Schbath and Peter Arndt. The goal of my work was to study the statistical properties of eukaryotic genomes, with a special focus on various mechanism of gene duplication. My manuscript is avaiable [here][PhD].
 
 After that, I did my first postdoc at the [LBBE][LBBE] in Lyon where I studied the evolution of replication origins.
