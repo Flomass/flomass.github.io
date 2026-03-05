@@ -102,7 +102,6 @@ The project is just starting and we are looking for students and postdoc to work
 me if interested!
 
 
-[DNA Replication : During each cell cycle, the genome must be accurately replicated to ensure the faithful transmission of the genetic material  to daughter cells. In vertebrates, DNA replication starts at specific sites,  called replication origins. The positions of replication origins have been identified in a handful of eukaryotic genomes (human, mouse, chicken, drosophila and *Leishmania major*). However, the derterminants of replication origins  positions are still poorly understood. To study the determinants of replication Origins, I conducted an evolutionary analysis of vertebrate replication origins  [(massip et. al)][Oris], and I am currently analyzing the link between the accumulation of somatic mutations in cancers and the position of replication origins.]: #
  
 
 [Ref1]: https://doi.org/10.2147/IDR.S48820
