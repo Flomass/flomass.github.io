@@ -4,7 +4,7 @@ title:  "Teaching & Supervision"
 date:   2025-07-28 19:04:17 +0200
 ---
 
-# Teaching
+# Teaching and Supervision
 
 ## Mines Paris PSL
 
