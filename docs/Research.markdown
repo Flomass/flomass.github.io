@@ -7,7 +7,7 @@ date:   2025-07-28 19:04:17 +0200
 # Research Themes
 
 I am developping bio informatic and statistical methods to analyse genomic data to study health related questions.
-In the recent years, I have focus on three main research questions:
+In the recent years, I have focus on two main research questions:
 
 ## Evolutionary analysis of genomic data 
 

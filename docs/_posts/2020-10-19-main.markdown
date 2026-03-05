@@ -19,7 +19,7 @@ During my second postdoc, I worked on cancer genomics in the [Evolutionary and C
 [Mines]: https://www.minesparis.psl.eu/
 [Curie]: https://curie.fr/unite/u900
 [Research]: /Research/index.html
-[Teaching and Supervision]: /Teaching/index.html
+[Teaching]: /Teaching/index.html
 [Ecology]: /Ecology/index.html
 
 
